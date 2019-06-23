@@ -1,0 +1,6 @@
+﻿D:\Vs2017\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(学生信息管理系统.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Main.cpp
+c:\users\joe\desktop\programs\学生信息管理系统\学生信息管理系统\control.h(11): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\joe\desktop\programs\学生信息管理系统\学生信息管理系统\control.h(19): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\joe\desktop\programs\学生信息管理系统\学生信息管理系统\control.h(80): warning C4715: “Password”: 不是所有的控件路径都返回值
+  学生信息管理系统.vcxproj -> C:\Users\Joe\Desktop\Programs\学生信息管理系统\Debug\Student Chorme.exe
